@@ -7,3 +7,17 @@
     box-shadow: 2px 8px 50px purple;
     
 }
+
+.flex{
+    display: flex;
+    column-gap: 20px;
+    
+
+}
+
+p{
+    display: box;
+    background-color: rgb(176, 104, 176);
+    padding: 5px;
+}
+
