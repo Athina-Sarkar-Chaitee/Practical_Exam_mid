@@ -1,0 +1,14 @@
+.cat3{
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    border-radius: 20%;
+    
+    
+    
+}
+
+.cat3:hover{
+    box-shadow: 2px 4px 50px rgb(203, 195, 38);
+    background-color: rgb(168, 62, 16);
+}
