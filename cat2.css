@@ -11,3 +11,18 @@
 .cat2:hover{
     border-radius: 50%;
 }
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+p {
+    display: block;
+    background-color: rgb(138, 226, 84);
+    text-align: center;
+    padding: 5px;
+    border: 2px solid rgb(16, 94, 16);
+    border-radius: 5px;
+}
