@@ -1,0 +1,9 @@
+.cat1{
+
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    background-color: rgb(111, 40, 122);
+    box-shadow: 2px 8px 50px purple;
+    
+}
